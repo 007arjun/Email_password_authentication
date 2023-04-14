@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732482240968",
+    "project_id": "arben-auth",
+    "storage_bucket": "arben-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732482240968:android:33971fd6de246013f500fd",
+        "android_client_info": {
+          "package_name": "com.example.arben_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732482240968-5van2mc8ran52dt6cvbt8u7bm83qd4st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC82iBhdLIyTFYQyUx75W2SJhhO-qYLTyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732482240968-5van2mc8ran52dt6cvbt8u7bm83qd4st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
